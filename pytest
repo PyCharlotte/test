@@ -1,0 +1,5 @@
+print("Hello world")
+
+def infiniteHello():
+  while True:
+    print("Hello world2")
